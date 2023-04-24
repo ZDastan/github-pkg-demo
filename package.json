@@ -1,7 +1,7 @@
 {
-      "name": "@ZDastan/Github-Demo",
+      "name": "@ZDastan/github-pkg-demo",
     "repository": {
-        "url": "git://github.com/ZDastan/Github-Demo.git"
+        "url": "git://github.com/ZDastan/github-pkg-demo.git"
     },
  
   "version": "1.0.0",
